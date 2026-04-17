@@ -3,15 +3,31 @@
   "WorkspaceRootPath": "D:\\.programfile\\Unity Game\\bu-2025-sem2-gi244-week13-1670701539\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1A068052-665B-ED48-B426-218FFB085813}|Assembly-CSharp.csproj|d:\\.programfile\\unity game\\bu-2025-sem2-gi244-week13-1670701539\\assets\\scripts\\projectileobjectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A068052-665B-ED48-B426-218FFB085813}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectileobjectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A068052-665B-ED48-B426-218FFB085813}|Assembly-CSharp.csproj|d:\\.programfile\\unity game\\bu-2025-sem2-gi244-week13-1670701539\\assets\\scripts\\destroyoutofbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A068052-665B-ED48-B426-218FFB085813}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyoutofbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A068052-665B-ED48-B426-218FFB085813}|Assembly-CSharp.csproj|d:\\.programfile\\unity game\\bu-2025-sem2-gi244-week13-1670701539\\assets\\scripts\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A068052-665B-ED48-B426-218FFB085813}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A068052-665B-ED48-B426-218FFB085813}|Assembly-CSharp.csproj|d:\\.programfile\\unity game\\bu-2025-sem2-gi244-week13-1670701539\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A068052-665B-ED48-B426-218FFB085813}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1A068052-665B-ED48-B426-218FFB085813}|Assembly-CSharp.csproj|D:\\.programfile\\Unity Game\\bu-2025-sem2-gi244-week13-1670701539\\assets\\scripts\\anotherobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A068052-665B-ED48-B426-218FFB085813}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\anotherobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A068052-665B-ED48-B426-218FFB085813}|Assembly-CSharp.csproj|d:\\.programfile\\unity game\\bu-2025-sem2-gi244-week13-1670701539\\assets\\scripts\\persistentobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A068052-665B-ED48-B426-218FFB085813}|Assembly-CSharp.csproj|D:\\.programfile\\Unity Game\\bu-2025-sem2-gi244-week13-1670701539\\assets\\scripts\\persistentobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A068052-665B-ED48-B426-218FFB085813}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\persistentobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A068052-665B-ED48-B426-218FFB085813}|Assembly-CSharp.csproj|d:\\.programfile\\unity game\\bu-2025-sem2-gi244-week13-1670701539\\assets\\scripts\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A068052-665B-ED48-B426-218FFB085813}|Assembly-CSharp.csproj|D:\\.programfile\\Unity Game\\bu-2025-sem2-gi244-week13-1670701539\\assets\\scripts\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A068052-665B-ED48-B426-218FFB085813}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,11 +38,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\.programfile\\Unity Game\\bu-2025-sem2-gi244-week13-1670701539\\Assets\\Scripts\\Food.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Food.cs",
+              "ToolTip": "D:\\.programfile\\Unity Game\\bu-2025-sem2-gi244-week13-1670701539\\Assets\\Scripts\\Food.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T09:14:28.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DestroyOutOfBound.cs",
+              "DocumentMoniker": "D:\\.programfile\\Unity Game\\bu-2025-sem2-gi244-week13-1670701539\\Assets\\Scripts\\DestroyOutOfBound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyOutOfBound.cs",
+              "ToolTip": "D:\\.programfile\\Unity Game\\bu-2025-sem2-gi244-week13-1670701539\\Assets\\Scripts\\DestroyOutOfBound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyOutOfBound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T09:17:55.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\.programfile\\Unity Game\\bu-2025-sem2-gi244-week13-1670701539\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\.programfile\\Unity Game\\bu-2025-sem2-gi244-week13-1670701539\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwDgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T09:04:58.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectileObjectPool.cs",
+              "DocumentMoniker": "D:\\.programfile\\Unity Game\\bu-2025-sem2-gi244-week13-1670701539\\Assets\\Scripts\\ProjectileObjectPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectileObjectPool.cs",
+              "ToolTip": "D:\\.programfile\\Unity Game\\bu-2025-sem2-gi244-week13-1670701539\\Assets\\Scripts\\ProjectileObjectPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectileObjectPool.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwC0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:52:30.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "GameSettings.cs",
               "DocumentMoniker": "D:\\.programfile\\Unity Game\\bu-2025-sem2-gi244-week13-1670701539\\Assets\\Scripts\\GameSettings.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameSettings.cs",
@@ -34,12 +102,11 @@
               "RelativeToolTip": "Assets\\Scripts\\GameSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T08:17:58.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-17T08:17:58.576Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "AnotherObject.cs",
               "DocumentMoniker": "D:\\.programfile\\Unity Game\\bu-2025-sem2-gi244-week13-1670701539\\Assets\\Scripts\\AnotherObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AnotherObject.cs",
@@ -47,12 +114,11 @@
               "RelativeToolTip": "Assets\\Scripts\\AnotherObject.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAgwCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T08:02:28.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-17T08:02:28.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "PersistentObject.cs",
               "DocumentMoniker": "D:\\.programfile\\Unity Game\\bu-2025-sem2-gi244-week13-1670701539\\Assets\\Scripts\\PersistentObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PersistentObject.cs",
@@ -60,8 +126,7 @@
               "RelativeToolTip": "Assets\\Scripts\\PersistentObject.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T07:53:19.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-17T07:53:19.554Z"
             }
           ]
         }
